@@ -19,9 +19,9 @@ function randomCircle()
 {
     context.beginPath();
 
-    let x = randomNum(CIRCLE_MAX_RAD, CNV_SIZE - CIRCLE_MAX_RAD);
-    let y = randomNum(CIRCLE_MAX_RAD, CNV_SIZE - CIRCLE_MAX_RAD);
-    let radius = randomNum(CIRCLE_MIN_RAD, CIRCLE_MAX_RAD);
+    let x = randomNum();
+    let y = randomNum();
+    let radius = randomNum();
 
     context.strokeStyle = "black";
     context.fillStyle = "rgb(238,212,65)";
