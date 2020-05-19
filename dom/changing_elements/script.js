@@ -29,7 +29,16 @@ items[0].classList.add("very-important");
 items[1].classList.remove("highlight");
 console.log(items[1].classList.contains("highlight"));
 
+let numbers = [10, -5, 3, 8, 14];
 
+let count = 0;
+for (let i = 0; i < numbers.length; i++)
+{
+    let number = numbers[i];
+    count += 1;
+}
+
+console.log(count);
 
 
 
