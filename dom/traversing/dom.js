@@ -30,7 +30,7 @@ for (let i = 0; i < ol.children.length; i++)
     ol.children[i].style.fontWeight = "bold";
 }
 
-
+//write code for the practice exercise here...
 
 
 
