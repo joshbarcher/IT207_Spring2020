@@ -1,0 +1,11 @@
+div {
+    width: 600px;
+    height: 600px;
+    background-color: lightcoral;
+}
+
+img {
+    width: 100px;
+    padding: 200px 200px;
+    display: block;
+}

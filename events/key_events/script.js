@@ -1,6 +1,8 @@
 
 window.onload = function() {
     let textbox = document.getElementsByTagName("input")[0];
+
+    //use keypress event to avoid special characters (like backspace)
     textbox.onkeypress = function(event) {
         //stop the regular entry of a key in the textbox
         event.preventDefault();

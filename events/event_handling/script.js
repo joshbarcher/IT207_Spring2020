@@ -1,33 +1,24 @@
-//won't run until the page is loaded!
+
+
 window.onload = function() {
-    let button = document.querySelector("button#submit");
-
-    button.onfocus = function() {
-        button.style.backgroundColor = "black";
-        button.style.color = "white";
-    }
-
-    button.onblur = function() {
-        button.style.backgroundColor = "";
-        button.style.color = "";
-    }
-}
-
-function buttonClicks()
-{
-    //add an event handler to each of our buttons
-    let buttons = document.getElementsByTagName("button");
-    for (let i = 0; i < buttons.length; i++)
+    let elements = document.querySelectorAll(
+        "div, section, p");
+    for (let i = 0; i < elements.length; i++)
     {
-        let button = buttons[i];
-        button.onclick = handleButtonClick;
+        let element = elements[i];
+        element.onclick = function(event) {
+            //stop event bubbling
+            event.stopPropagation();
+
+            element.style.backgroundColor = "beige";
+            console.log("Changed background color of " + element.tagName);
+        }
     }
+
+    let count = 0;
+    for (let i = 0; i <= 1000000000; i++) {
+        count++;
+    }
+    console.log(count);
 }
 
-function handleButtonClick(event)
-{
-    //get the source of the event (the button clicked)
-    let button = event.target;
-
-    console.log(button.textContent);
-}
