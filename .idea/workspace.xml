@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41546490-501c-42ee-ad67-5a2ec7811ffd" name="Default Changelist" comment="Added an example of drawing to a canvas using JavaScript.">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/IT207_Spring2020.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apis/fetch/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/apis/fetch/script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aDyfk6sFuPW2hLax7KpnIq0Amw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/apis/fetch" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/events" />
+      <recent name="$PROJECT_DIR$/arrays/examples" />
+      <recent name="$PROJECT_DIR$/control_flow/loops/html_entities" />
+      <recent name="$PROJECT_DIR$/control_flow/popups" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/apis/fetch" />
+      <recent name="$PROJECT_DIR$/events/event_handling" />
+      <recent name="$PROJECT_DIR$/events/mouse_events" />
+      <recent name="$PROJECT_DIR$/dom/adding_elements" />
+      <recent name="$PROJECT_DIR$/dom/changing_elements/images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41546490-501c-42ee-ad67-5a2ec7811ffd" name="Default Changelist" comment="" />
+      <created>1586284563955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586284563955</updated>
+      <workItem from="1586284566476" duration="913000" />
+      <workItem from="1586449649882" duration="2284000" />
+      <workItem from="1586542334521" duration="620000" />
+      <workItem from="1586890457766" duration="228000" />
+      <workItem from="1587059250110" duration="865000" />
+      <workItem from="1587423515526" duration="595000" />
+      <workItem from="1587489741751" duration="3798000" />
+      <workItem from="1587495834795" duration="210000" />
+      <workItem from="1587496069444" duration="143000" />
+      <workItem from="1587661167470" duration="3616000" />
+      <workItem from="1587751149444" duration="2882000" />
+      <workItem from="1588089640195" duration="2367000" />
+      <workItem from="1588177546031" duration="639000" />
+      <workItem from="1588355639415" duration="1870000" />
+      <workItem from="1588610342421" duration="147000" />
+      <workItem from="1588698025597" duration="2887000" />
+      <workItem from="1588870715569" duration="3088000" />
+      <workItem from="1588960811583" duration="2746000" />
+      <workItem from="1589299195196" duration="3173000" />
+      <workItem from="1589476726747" duration="2912000" />
+      <workItem from="1589905791266" duration="2338000" />
+      <workItem from="1590080174628" duration="2853000" />
+      <workItem from="1590090480660" duration="210000" />
+      <workItem from="1590161391800" duration="314000" />
+      <workItem from="1590170316443" duration="3974000" />
+      <workItem from="1590682926398" duration="1672000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added a first script in JavaScript">
+      <created>1586287034041</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586287034041</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added an example of assigning variables (WA state facts).">
+      <created>1586458924400</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586458924401</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added an example of popup dialogs in JavaScript.">
+      <created>1587059995046</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587059995046</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added several examples of loops.">
+      <created>1587494849605</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587494849605</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added several examples of loops.">
+      <created>1587496202851</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587496202851</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added examples of defining and calling functions in JavaScript.">
+      <created>1587667591380</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587667591380</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added an example of drawing to a canvas using JavaScript.">
+      <created>1587753325446</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587753325446</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added an example of drawing to a canvas using JavaScript.">
+      <created>1587754664028</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587754664028</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added another example of random circles on a canvas.">
+      <created>1588097411775</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1588097411775</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added an example to help with our current homework.">
+      <created>1588610377339</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1588610377339</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added an example of object literals.">
+      <created>1588873827847</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1588873827847</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added an example of objects as maps, function constructors, and DOM methods.">
+      <created>1589307381566</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1589307381566</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added several examples of traversing the DOM.">
+      <created>1589482884218</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1589482884218</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added some help for our data sets assn.">
+      <created>1589908759735</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1589908759736</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added an example of adding elements to the DOM.">
+      <created>1589909681180</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1589909681180</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added an example of key events and focus events.">
+      <created>1590087159608</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1590087159608</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Updated our key events example to use the keypressed event, which does not register special characters.">
+      <created>1590161577652</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1590161577652</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added an example of using a remote web api.">
+      <created>1590686832611</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1590686832611</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added a first script in JavaScript" />
+    <MESSAGE value="Added an example of assigning variables (WA state facts)." />
+    <MESSAGE value="Added an example of popup dialogs in JavaScript." />
+    <MESSAGE value="Added several examples of loops." />
+    <MESSAGE value="Added examples of defining and calling functions in JavaScript." />
+    <MESSAGE value="Added an example of drawing to a canvas using JavaScript." />
+    <MESSAGE value="Added another example of random circles on a canvas." />
+    <MESSAGE value="Added an example to help with our current homework." />
+    <MESSAGE value="Added an example of object literals." />
+    <MESSAGE value="Added an example of objects as maps, function constructors, and DOM methods." />
+    <MESSAGE value="Added several examples of traversing the DOM." />
+    <MESSAGE value="Added some help for our data sets assn." />
+    <MESSAGE value="Added an example of adding elements to the DOM." />
+    <MESSAGE value="Added an example of key events and focus events." />
+    <MESSAGE value="Updated our key events example to use the keypressed event, which does not register special characters." />
+    <MESSAGE value="Added an example of using a remote web api." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added an example of using a remote web api." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="255" y="23" key="CommitChangelistDialog2" timestamp="1590686832379">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="255" y="23" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1590686832379" />
+    <state x="396" y="250" key="Vcs.Push.Dialog.v2" timestamp="1590686836089">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="396" y="250" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1590686836089" />
+    <state x="477" y="88" width="838" height="1032" key="search.everywhere.popup" timestamp="1588358465898">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="477" y="88" width="838" height="1032" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1588358465898" />
+  </component>
+</project>
