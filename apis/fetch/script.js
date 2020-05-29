@@ -1,11 +1,14 @@
 window.onload = function() {
     let button = document.querySelector("button");
     button.onclick = loadCat;
+
+    //load an initial cat using the remote api
+    loadCat();
 }
 
 function loadCat()
 {
-    fetch("https://api.thecatapi.com/v1/images/search", {
+    fetch("https://api.thecatapi.com/v1/images/search?limit=2", {
         method: "GET",
         mode: "cors",
         headers: {
