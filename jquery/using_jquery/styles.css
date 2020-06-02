@@ -1,0 +1,10 @@
+button.glow {
+    color: black;
+    background-color: beige;
+}
+
+button {
+    color: white;
+    background-color: salmon;
+    border: 1px solid black;
+}
