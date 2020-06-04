@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41546490-501c-42ee-ad67-5a2ec7811ffd" name="Default Changelist" comment="Added an example of drawing to a canvas using JavaScript.">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/IT207_Spring2020.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apis/fetch/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/apis/fetch/script.js" afterDir="false" />
+    <list default="true" id="41546490-501c-42ee-ad67-5a2ec7811ffd" name="Default Changelist" comment="Added a few examples of jQuery UI.">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jquery_datatables/datatable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jquery_datatables/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/IT207_Spring2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IT207_Spring2020.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -35,23 +34,26 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/apis/fetch" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/events" />
-      <recent name="$PROJECT_DIR$/arrays/examples" />
-      <recent name="$PROJECT_DIR$/control_flow/loops/html_entities" />
-      <recent name="$PROJECT_DIR$/control_flow/popups" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/apis/fetch" />
       <recent name="$PROJECT_DIR$/events/event_handling" />
       <recent name="$PROJECT_DIR$/events/mouse_events" />
       <recent name="$PROJECT_DIR$/dom/adding_elements" />
       <recent name="$PROJECT_DIR$/dom/changing_elements/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jquery/jquery_ui/autocomplete" />
+      <recent name="$PROJECT_DIR$/events" />
+      <recent name="$PROJECT_DIR$/arrays/examples" />
+      <recent name="$PROJECT_DIR$/control_flow/loops/html_entities" />
+      <recent name="$PROJECT_DIR$/control_flow/popups" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -89,7 +91,11 @@
       <workItem from="1590090480660" duration="210000" />
       <workItem from="1590161391800" duration="314000" />
       <workItem from="1590170316443" duration="3974000" />
-      <workItem from="1590682926398" duration="1672000" />
+      <workItem from="1590682926398" duration="2259000" />
+      <workItem from="1590768129794" duration="2000" />
+      <workItem from="1590777020148" duration="881000" />
+      <workItem from="1591117231720" duration="2599000" />
+      <workItem from="1591291103783" duration="1626000" />
     </task>
     <task id="LOCAL-00001" summary="Added a first script in JavaScript">
       <created>1586287034041</created>
@@ -217,7 +223,35 @@
       <option name="project" value="LOCAL" />
       <updated>1590686832611</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Added an example of drawing to a canvas using JavaScript.">
+      <created>1590686939367</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1590686939367</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Added an initial example of jquery">
+      <created>1590778227139</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1590778227139</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Added a few more examples of jQuery methods and event handling.">
+      <created>1591127792224</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1591127792224</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Added a few examples of jQuery UI.">
+      <created>1591292751771</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1591292751771</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,7 +263,6 @@
     <MESSAGE value="Added an example of popup dialogs in JavaScript." />
     <MESSAGE value="Added several examples of loops." />
     <MESSAGE value="Added examples of defining and calling functions in JavaScript." />
-    <MESSAGE value="Added an example of drawing to a canvas using JavaScript." />
     <MESSAGE value="Added another example of random circles on a canvas." />
     <MESSAGE value="Added an example to help with our current homework." />
     <MESSAGE value="Added an example of object literals." />
@@ -240,17 +273,25 @@
     <MESSAGE value="Added an example of key events and focus events." />
     <MESSAGE value="Updated our key events example to use the keypressed event, which does not register special characters." />
     <MESSAGE value="Added an example of using a remote web api." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added an example of using a remote web api." />
+    <MESSAGE value="Added an example of drawing to a canvas using JavaScript." />
+    <MESSAGE value="Added an initial example of jquery" />
+    <MESSAGE value="Added a few more examples of jQuery methods and event handling." />
+    <MESSAGE value="Added a few examples of jQuery UI." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a few examples of jQuery UI." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="255" y="23" key="CommitChangelistDialog2" timestamp="1590686832379">
+    <state x="255" y="23" key="CommitChangelistDialog2" timestamp="1591292751583">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="255" y="23" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1590686832379" />
-    <state x="396" y="250" key="Vcs.Push.Dialog.v2" timestamp="1590686836089">
+    <state x="255" y="23" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1591292751583" />
+    <state x="295" y="123" key="SettingsEditor" timestamp="1591119042697">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="396" y="250" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1590686836089" />
+    <state x="295" y="123" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1591119042697" />
+    <state x="396" y="250" key="Vcs.Push.Dialog.v2" timestamp="1591292754098">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="396" y="250" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1591292754098" />
     <state x="477" y="88" width="838" height="1032" key="search.everywhere.popup" timestamp="1588358465898">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
